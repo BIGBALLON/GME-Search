@@ -102,7 +102,7 @@ This project is released under the [MIT License](./LICENSE).
 ## Citation
 
 ```
-@misc{Open Grounding Dino,
+@misc{li2025gmesearch,
   author = {Wei Li},
   title = {Gradio app with GME for Image Search},
   howpublished = {\url{https://github.com/BIGBALLON/GME-Search}},
